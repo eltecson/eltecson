@@ -47,7 +47,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=eltecson&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=eltecson&no-bg=true&no-frame=true&theme=onestar" height="150" alt="trophy graph"  />
 </div>
 
