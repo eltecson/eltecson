@@ -44,16 +44,16 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=eltecson&no-bg=true&no-frame=true&theme=onestar" height="150" alt="trophy graph"  />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=eltecson&no-bg=true&no-frame=true&theme=onestar" height="150" alt="trophy graph"  />
 </div>
 
 ###
